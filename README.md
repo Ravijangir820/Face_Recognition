@@ -10,8 +10,6 @@ Face Detection & Recognition using face_recognition
 
 Stores face encodings in MySQL for scalability
 
-Displays Name & Registration Number on video feed
-
 Automatically checks for duplicates before registering a new user
 
 Uses OpenCV to process real-time video feed
